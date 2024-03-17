@@ -1,4 +1,4 @@
-/* header countent  styles */
+/* commit shared style */
 body {
     font-family: 'Lato' , sans-serif;
     font-family: 'Open Sans', sans-serif;
@@ -13,23 +13,25 @@ body {
     border-radius: 3px;
 }
 
+/* header countent  styles */
+
+
 .banner{
-    padding: 0px 150px 0px 150px;
+    padding: 50px 150px 0px 150px;
     display: flex;
-    /* text-align: center; */
     justify-content: space-between;
 }
 
 .banner .profil-pic{
-    width: 300px;
-    height: 350px;
+    width: 350px;
+    height: 400px;
     padding-top: 0px;
     
 }
 
 .banner-content{
     max-width: 500px;
-    /* margin: 130px 730px 80px 150px; */
+   
 }
 
 .banner-greating{
@@ -37,6 +39,7 @@ body {
     font-size: 43px;
     margin-bottom: 15px;
     margin-right: 100px;
+    margin-top: 80px;
 }
 
 .banner-description{
