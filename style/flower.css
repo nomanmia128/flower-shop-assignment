@@ -15,6 +15,10 @@ body {
 
 /* header countent  styles */
 
+header{
+    background-color: #f9eaefda;
+}
+
 
 .banner{
     padding: 50px 150px 0px 150px;
