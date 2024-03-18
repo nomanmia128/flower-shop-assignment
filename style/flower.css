@@ -60,15 +60,20 @@ header{
 
 /* section-4 releted styles */
 
+.flowers{
+    background-color: #fcf4f6da;
+}
+
 .heading{
-    margin-right: 250px;
+    
+    margin-right: 300px;
     display: flex;
     text-align: center;
     justify-content: space-between;
 }
 
 .section{
-    padding: 80px 200px 100px 250px;
+    padding: 70px 100px 85px 280px;
 }
 
 .sele{
@@ -76,15 +81,39 @@ header{
 }
 
 .sele-item{
-    
     font-size: 10px;
     color: #474747;
 }
 
 .pic{
+    padding-bottom: 5px;
     width: 200px;
     height: 250px;
+}
 
+/* section 5 releted styles */
+.instagrm{
+    /* display: flex; */
+    text-align: center;
+    padding: 30px 420px 10px 420px;
 
 }
 
+.item-title{
+    font-size: 18px;
+}
+
+.item-title-drescription{
+    font-size: 10px;
+    color: #474747;
+}
+
+.images{
+    padding: 2px 150px 10px 150px;
+    
+    
+}
+.flow{
+    width: 190px;
+    margin: 5px;
+}
