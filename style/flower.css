@@ -13,6 +13,10 @@ body {
     border-radius: 3px;
 }
 
+.primary{
+    color: #f52c6cda;
+
+}
 /* header countent  styles */
 
 header{
@@ -53,3 +57,34 @@ header{
     margin-right: 115px;
 
 }
+
+/* section-4 releted styles */
+
+.heading{
+    margin-right: 250px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.section{
+    padding: 80px 200px 100px 250px;
+}
+
+.sele{
+    font-size: 15px;
+}
+
+.sele-item{
+    
+    font-size: 10px;
+    color: #474747;
+}
+
+.pic{
+    width: 200px;
+    height: 250px;
+
+
+}
+
