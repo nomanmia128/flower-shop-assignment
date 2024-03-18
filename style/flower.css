@@ -58,6 +58,30 @@ header{
 
 }
 
+/* section-3 releted styls*/
+
+.skill{
+    background-color: #d9d8d8da;
+    display: flex;
+    gap: 24px;
+    text-align: center;
+    margin: 70px 150px 70px 150px;
+    padding: 30px 120px 30px 120px;
+    justify-content: space-around;
+    
+}
+
+.contact{
+     
+     
+}
+
+.contact-opsion{
+    font-size: 13px;
+    color: #757575;
+}
+
+
 /* section-4 releted styles */
 
 .flowers{
@@ -163,7 +187,6 @@ footer{
     text-align: center;
     padding: 50px 430px 80px 430px;
     margin: 70px 0px 0px 0px;
-
   
 }
 
