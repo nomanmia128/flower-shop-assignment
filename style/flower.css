@@ -51,7 +51,7 @@ header{
 }
 
 .banner-description{
-    color: #474747;
+    color: #757575;
     font-size: 11px;
     margin-bottom: 15px;
     margin-right: 115px;
@@ -82,7 +82,7 @@ header{
 
 .sele-item{
     font-size: 10px;
-    color: #474747;
+    color: #757575;
 }
 
 .pic{
@@ -93,10 +93,8 @@ header{
 
 /* section 5 releted styles */
 .instagrm{
-    /* display: flex; */
     text-align: center;
     padding: 30px 420px 10px 420px;
-
 }
 
 .item-title{
@@ -105,7 +103,7 @@ header{
 
 .item-title-drescription{
     font-size: 10px;
-    color: #474747;
+    color: #757575;
 }
 
 .images{
@@ -114,6 +112,29 @@ header{
     
 }
 .flow{
-    width: 190px;
+    width: 210px;
     margin: 5px;
+}
+
+
+/* section 6 releted styles */
+.deals-many{
+    margin: 10px 150px 10px 150px;
+    padding: 80px 20px 50px 20px;
+    
+    background-image: url('../images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+}
+
+.dealer{
+    text-align: center;
+}
+.latest-feals{
+    font-size: 30px;
+    padding-top: 0px;
+}
+.maner{
+    font-size: 10px;
+    color: #757575;
+    padding-bottom: 0px;
 }
